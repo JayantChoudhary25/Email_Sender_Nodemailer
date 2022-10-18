@@ -2,4 +2,5 @@
 
 npm i nodemailer
 
-Send Mail using Nodemailer and NodeJS from Gmail
+Send Mail using (Nodemailer and NodeJS)
+Send Mail from Gmail
