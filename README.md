@@ -1,4 +1,4 @@
-# Email_Sender_Nodemailer
+# Email Sender
 
 npm i nodemailer
 
